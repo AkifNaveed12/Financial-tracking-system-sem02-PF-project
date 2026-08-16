@@ -1,0 +1,62 @@
+# Compiled object files
+*.o
+*.obj
+*.out
+
+# Executable files
+*.exe
+*.app
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.code-workspace
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# User data files (keep locally, don't commit)
+users.txt
+budget_data.txt
+bills.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Dependencies
+*.a
+*.lib
+
+# OS specific
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Output files
+*.out
+*.dat
